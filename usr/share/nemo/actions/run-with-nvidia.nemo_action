@@ -1,0 +1,22 @@
+[Nemo Action]
+
+Name[en_GB]=Run with nVidia GPU
+Name[it]=Run with nVidia GPU
+
+Comment[en_GB]=Run %f with dedicated nVidia graphic card
+Comment[it]=Run %f with dedicated nVidia graphic card
+
+Exec=optirun %F
+
+Icon-Name=folder
+
+Selection=s
+
+Extensions=nodirs;
+
+Mimetypes=application/x-executable,application/x-shellscript,text/x-script.phyton,application/x-bytecode.python;
+
+Dependencies=optirun;
+
+EscapeSpaces=true
+
