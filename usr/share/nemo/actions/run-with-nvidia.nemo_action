@@ -1,4 +1,4 @@
-# version 0.0.3
+# version 0.0.4
 
 [Nemo Action]
 
@@ -14,7 +14,7 @@ Icon-Name=nvidia-settings
 
 Selection=s
 
-Mimetypes=application/x-executable,application/x-shellscript,text/x-script.phyton,application/x-bytecode.python;
+Mimetypes=application/x-executable;application/x-shellscript;text/x-script.phyton;application/x-bytecode.python;
 
 Dependencies=optirun;
 
