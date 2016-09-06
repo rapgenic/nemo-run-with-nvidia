@@ -1,12 +1,12 @@
-# version 0.0.2
+# version 0.0.3
 
 [Nemo Action]
 
 Name[en_GB]=Run with nVidia GPU
-Name[it]=Run with nVidia GPU
+Name[it]=Esegui con la GPU nVidia
 
 Comment[en_GB]=Run %f with dedicated nVidia graphic card
-Comment[it]=Run %f with dedicated nVidia graphic card
+Comment[it]=Esegui %f con la scheda grafica dedicata nVidia
 
 Exec=optirun %F
 
