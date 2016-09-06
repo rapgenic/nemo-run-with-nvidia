@@ -1,4 +1,4 @@
-# version 0.0.1
+# version 0.0.2
 
 [Nemo Action]
 
@@ -10,11 +10,9 @@ Comment[it]=Run %f with dedicated nVidia graphic card
 
 Exec=optirun %F
 
-Icon-Name=folder
+Icon-Name=nvidia-settings
 
 Selection=s
-
-Extensions=nodirs;
 
 Mimetypes=application/x-executable,application/x-shellscript,text/x-script.phyton,application/x-bytecode.python;
 
