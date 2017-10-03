@@ -4,9 +4,11 @@
 
 Name[en_GB]=Run with nVidia GPU
 Name[it]=Esegui con la GPU nVidia
+Name[de_DE]=Mit nVidia GPU ausführen
 
 Comment[en_GB]=Run %f with dedicated nVidia graphic card
 Comment[it]=Esegui %f con la scheda grafica dedicata nVidia
+Comment[de_DE]=%f mit dedizierter nVidia Grafikkarte ausführen
 
 Exec=optirun %F
 
